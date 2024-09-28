@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain_groq
+streamlit
+validators==0.28.1
+wikipedia
+numexpr
